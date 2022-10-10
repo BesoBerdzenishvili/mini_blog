@@ -7,6 +7,8 @@ const Wrapper = styled("div", {
   border: "1px solid purple",
   padding: "10px",
   backgroundColor: "#FFFFFF",
+  position: "sticky",
+  top: "0px",
 });
 
 const Button = styled("button", {
